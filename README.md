@@ -24,6 +24,24 @@ A comprehensive management system for Small and Medium Enterprises (SMEs) with i
 - **Reports**: Generate and view branch-specific reports
 - **AI Assistant**: Access AI-powered insights and recommendations
 
+## 📸 Screenshots
+### Admin Dashboard
+![Admin Dashboard](./screenshots/admin_dashboard.png)
+
+### AI Chatbot
+![AI Chatbot](./screenshots/AI_chatbot.png)
+
+### AI Customer Engagement Analysis
+![Customer Engagement](./screenshots/AI_customer_engagement.png)
+
+### AI Product Demand Forcasting
+![Customer Engagement](./screenshots/AI_customer_engagement.png)
+
+### AI Sales Forcasting
+![Sales Forecasting](./screenshots/AI_sale_forcasting.png)
+
+> Note: More screenshots can be found in the [screenshots directory](./screenshots)
+
 ## 🛠️ Tech Stack
 
 - **Frontend Framework**: React 18.2.0 with TypeScript
