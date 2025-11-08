@@ -40,8 +40,6 @@ A comprehensive management system for Small and Medium Enterprises (SMEs) with i
 ### AI Sales Forcasting
 ![Sales Forecasting](./screenshots/AI_sale_forcasting.png)
 
-> Note: More screenshots can be found in the [screenshots directory](./screenshots)
-
 ## 🛠️ Tech Stack
 
 - **Frontend Framework**: React 18.2.0 with TypeScript
@@ -236,7 +234,10 @@ This project is open source and available under the MIT License.
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Muradul Islam
+- Sazibul Islam Siam
+- Md Abdullah Ibne Aziz
+- Marisa Parvez Oishy
 
 ## 🙏 Acknowledgments
 
